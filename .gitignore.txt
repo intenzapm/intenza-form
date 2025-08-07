@@ -1,0 +1,2 @@
+# 不要上傳本地密鑰
+.streamlit/secrets.toml

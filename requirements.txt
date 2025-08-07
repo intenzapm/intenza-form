@@ -1,0 +1,11 @@
+streamlit
+pandas
+gspread
+google-auth
+gspread-dataframe
+plotly
+wordcloud
+matplotlib
+xlsxwriter
+seaborn
+wordcloud
